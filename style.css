@@ -1,0 +1,41 @@
+.carousel-item{
+    padding: 20px 20px;
+}
+.container{
+    margin-bottom: 70px;
+}
+.buy-now-button{
+   background-color: black;
+   color: white;
+   border-radius: 10px;
+   border: none;
+   cursor: pointer;
+   padding: 9px 25px;
+}
+.carousel-indicators .active{
+    background-color: orange;
+    padding: 2px 2px;
+}
+.see-all-button{
+    background-color: white;
+    color: orange;
+    border: none;
+}
+.card-deck{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#categories{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-underline-position: below;
+}
+#center {
+    vertical-align: middle;
+    margin:auto;
+  }
+
